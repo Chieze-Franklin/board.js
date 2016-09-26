@@ -1,0 +1,7 @@
+{
+  "name": "Board",
+  "version": "0.0.1",
+  "description": "An abstract board",
+  "main": "board.js",
+  "author": "Chieze Franklin"
+}
